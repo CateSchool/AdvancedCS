@@ -12,6 +12,7 @@
     - [block scope](#block-scope)
   - [Mathematical Operators](#mathematical-operators)
     - [Arithmetic Operators](#arithmetic-operators)
+    - [Operator Precedence](#operator-precedence)
     - [Assignment Operators](#assignment-operators)
     - [String Concatenation](#string-concatenation)
   - [Resources](#resources)
@@ -253,6 +254,21 @@ console.log(x);     // 11
 
 let y = 5;
 console.log(y % 2); // 1 (remainder of 5 after dividing by 2 is 1)
+```
+
+### Operator Precedence
+Note that `PEMDAS` applies for mathematical operators. Here is an example of operator precedence. 
+
+```javascript
+console.log(3 + 4 * 5);   // 3 + 20 = 23
+console.log((3 + 4) * 5); // 7 * 5 = 35
+```
+
+Note that `%` has the same precedence as `*` and `/` (execute `*/%` from left to right):
+
+```javascript
+console.log(3 + 4 % 2);   // 3 + 0 = 3
+console.log((3 + 4) % 2); // 7 % 2 = 1
 ```
 
 ### Assignment Operators
