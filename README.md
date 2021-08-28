@@ -1,5 +1,7 @@
 # Cate Advanced Computer Science
 
+[Writing Good Code](codestyle.md)
+
 ### Trimester 1: JavaScript & p5.js Fundamentals
 0. [Getting Started](p5js/0-Getting%20Started/README.md)
 1. [Drawing](p5js/1-Drawing/README.md) 
