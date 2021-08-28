@@ -8,3 +8,4 @@
 5. [Loops](5-Loops/README.md)
 6. [Arrays](6-Arrays/README.md)
 7. [Objects](7-Objects/README.md)
+8. [Inheritance & Polymorphism](8-Inheritance/README.md)

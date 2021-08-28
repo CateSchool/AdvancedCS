@@ -9,6 +9,8 @@
 5. [Loops](p5js/5-Loops/README.md)
 6. [Arrays](p5js/6-Arrays/README.md)
 7. [Objects](p5js/7-Objects/README.md)
+8. [Inheritance & Polymorphism](p5js/8-Inheritance/README.md)
+
 
 ### Trimester 2: TBA
 
