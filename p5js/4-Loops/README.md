@@ -1,4 +1,4 @@
-# 5. Loops
+# 4. Loops
 
   - [for loop](#for-loop)
   - [while](#while)

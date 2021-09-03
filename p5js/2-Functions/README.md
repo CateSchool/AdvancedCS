@@ -1,4 +1,4 @@
-# 3. Functions
+# 2. Functions
 
   - [Abstraction (why functions?)](#abstraction-why-functions)
   - [Declaring & Calling functions](#declaring--calling-functions)

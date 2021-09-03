@@ -1,4 +1,4 @@
-# 6. Arrays
+# 5. Arrays
 
 ## Accessing Arrays
 Arrays are used to store multiple values in a single variable. Arrays can store any type of data:

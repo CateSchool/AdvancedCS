@@ -1,4 +1,4 @@
-# 2. Variables
+# 1. Variables
 
 **Variables** in computer science are named entities that serve as placeholders for stored values. Variables can store all sorts of things: numbers, words, and more!
 
