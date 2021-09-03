@@ -1,7 +1,7 @@
 # 0. Getting Started
 
-- [Repl.it]("#repl-it")
-- [console.log()]("#console.log()")
+- [Repl.it]("#replit")
+- [console.log()]("#consolelog")
 - [comments]("#comments")
 - [Drawing with p5.js]("#drawing-with-p5js")
   - [Shapes](#shapes)
