@@ -1,9 +1,9 @@
 # 0. Getting Started
 
-- [Repl.it]("#files")
+- [Repl.it]("#replit")
 - [console.log()]("#console.log()")
 - [comments]("#comments")
-- [Drawing]("#drawing")
+- [Drawing with p5.js]("#drawing-with-p5js")
   - [Shapes](#shapes)
   - [Color](#color)
   - [fill() & stroke()](#fill--stroke)
