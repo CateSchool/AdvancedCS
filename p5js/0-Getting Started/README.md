@@ -1,13 +1,13 @@
 # 0. Getting Started
 
-- [Repl.it]("#replit")
-- [console.log()]("#consolelog")
-- [comments]("#comments")
-- [Drawing with p5.js]("#drawing-with-p5js")
-  - [Shapes](#shapes)
-  - [Color](#color)
-  - [fill() & stroke()](#fill--stroke)
-- [Resources](#other-resources)
+  - [Repl.it](#replit)
+  - [console.log()](#consolelog)
+  - [comments](#comments)
+  - [Drawing with p5.js](#drawing-with-p5js)
+    - [Shapes](#shapes)
+    - [Color](#color)
+    - [fill() & stroke()](#fill--stroke)
+  - [Resources](#resources)
 ---
 
 ## Repl.it
