@@ -1,6 +1,6 @@
 # 0. Getting Started
 
-- [Repl.it]("#replit")
+- [Repl.it]("#repl-it")
 - [console.log()]("#console.log()")
 - [comments]("#comments")
 - [Drawing with p5.js]("#drawing-with-p5js")
