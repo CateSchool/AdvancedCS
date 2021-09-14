@@ -27,7 +27,7 @@
 - The smaller the function, the better
     - Shoot for less than 20 lines 
     - Functions that perform multiple tasks should call different functions to perform each subtask.  
-- Less arguments are better (shoot for < 3)
+- Less arguments are better (shoot for <= 4)
 - Don’t repeat yourself
     - Separate out repeated code into separate functions
 
