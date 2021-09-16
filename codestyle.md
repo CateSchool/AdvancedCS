@@ -24,8 +24,8 @@
 
 ## Functions
 - A function should only do one thing (“separation of concerns”)
-- The smaller the function, the better
-    - Shoot for less than 20 lines 
+- Generally speaking, the smaller the function, the better
+    - Shoot for less than 20 lines (but probably more than 2) 
     - Functions that perform multiple tasks should call different functions to perform each subtask.  
 - Less arguments are better (shoot for <= 4)
 - Don’t repeat yourself
