@@ -13,6 +13,10 @@
 7. [Inheritance & Polymorphism](p5js/7-Inheritance/README.md)
 
 
+
+
+[Project 1 Guidelines](p5js/project1.md)
+
 ### Trimester 2: TBA
 
 ### Trimester 3: TBA
