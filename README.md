@@ -15,7 +15,7 @@
 
 
 
-[Project 1 Guidelines](p5js/project/README.md)
+**[Project 1 Guidelines](p5js/project/README.md)**
 
 ### Trimester 2: TBA
 

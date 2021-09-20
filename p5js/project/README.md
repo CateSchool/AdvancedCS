@@ -1,6 +1,6 @@
 # Project 1
 
-## Overview
+### Overview
 In  this project students will demonstrate proficiency with JavaScript fundamentals and the p5.js library by developing interactive, single-page programs for the web. Students can draw inspiration from:
 
 * [openProcessing](https://openprocessing.org/)
@@ -10,7 +10,7 @@ In  this project students will demonstrate proficiency with JavaScript fundament
 [![open processing](img1.png)](https://openprocessing.org/sketch/1241717)
 [![open processing](img2.png)](https://openprocessing.org/sketch/996408)
 
-## Requirements
+### Requirements
 Your code must be published to the web using GitHub Pages. Additionally, at least one instance of the following components must be used (not just declared) in your code:
 * Interactivity (keyboard, mouse, etc.)
 * conditional logic (if/else)
