@@ -7,8 +7,8 @@ In  this project students will demonstrate proficiency with JavaScript fundament
 * The bizarre (and usually funny) site, [theuselessweb.com](theuselessweb.com)
 * Video games (Galaga, ioGames, platformers, ...)
 
-[![open processing](img1.png)](https://openprocessing.org/sketch/1241717)
-[![open processing](img2.png)](https://openprocessing.org/sketch/996408)
+[![open processing](img.png)](https://openprocessing.org/sketch/1241717)
+[![open processing](img_1.png)](https://openprocessing.org/sketch/996408)
 
 ### Requirements
 Your code must be published to the web using GitHub Pages. Additionally, at least one instance of the following components must be used (not just declared) in your code:
