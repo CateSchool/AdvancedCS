@@ -4,7 +4,7 @@
 In  this project students will demonstrate proficiency with JavaScript fundamentals and the p5.js library by developing interactive, single-page programs for the web. Students can draw inspiration from:
 
 * [openProcessing](https://openprocessing.org/)
-* The bizarre (and usually funny) site, [theuselessweb.com](theuselessweb.com)
+* The bizarre (and usually funny) site, [theuselessweb.com](https://theuselessweb.com)
 * Video games (Galaga, ioGames, platformers, ...)
 
 [![open processing](img.png)](https://openprocessing.org/sketch/1241717)
