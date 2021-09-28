@@ -10,7 +10,7 @@
 4. [Loops](p5js/4-Loops/README.md)
 5. [Arrays](p5js/5-Arrays/README.md)
 6. [Objects](p5js/6-Objects/README.md)
-7. [Inheritance & Polymorphism](p5js/7-Inheritance/README.md)
+7. [Object Oriented Programming](p5js/7-OOP/README.md)
 
 
 
