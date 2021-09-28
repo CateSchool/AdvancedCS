@@ -4,12 +4,14 @@
   - [Accessing 2D Arrays](#--accessing-2d-arrays)
   - [Initializing Arrays](#initializing-arrays)
     - [push()](#push)
+    - [other array methods](#other-array-methods)
   - [Accessing Array Values](#accessing-array-values)
   - [Setting Array Values](#setting-array-values)
   - [Arrays & Loops](#arrays--loops)
   - [2D arrays](#2d-arrays)
     - [Accessing 2D Arrays](#accessing-2d-arrays)
     - [Initializing 2D Arrays](#initializing-2d-arrays)
+    - [Looping through 2D Arrays](#looping-through-2d-arrays)
 ---
 
 ## Initializing Arrays
@@ -42,6 +44,20 @@ let arr = [];
 for (let i = 0; i < 10; i++) {
     arr.push(random());
 }
+```
+
+### other array methods
+* `pop()` (removes last item)
+* `shift()` (removes first item)
+* `unshift(element)` (adds **element** to the beginning of the array)
+* `splice(startIndex, n)` (removes **n** elements begining at **startIndex**)
+  
+```javascript
+let fruits = ["apple", "kiwi", "banana", "strawberry"];
+fruits.pop();           // ["apple", "kiwi", "banana"]
+fruits.shift();         // ["kiwi", "banana"]
+fruits.unshift("pear"); // ["pear", "kiwi", "banana"]
+fruits.splice(1, 1);    // ["pear", "banana"]
 ```
 
 ## Accessing Array Values
@@ -105,6 +121,17 @@ for (let r = 0; r < 10; r++) {
     arr[r] = [];
     for (let c = 0; c < 10; c++) {
         arr[r][c] = random();
+    }
+} 
+```
+
+### Looping through 2D Arrays
+Notice how `arr.length` and `arr[0].length` are used in the for loop:
+```javascript
+let arr = [[2,5,3], [3, 5, 8], [9, 9, 10]];
+for (let r = 0; r < arr.length; r++) {
+    for (let c = 0; c < arr[0].length; c++) {
+       console.log(arr[r][c]);
     }
 } 
 ```
