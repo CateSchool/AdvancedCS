@@ -18,5 +18,12 @@
 **[Project 1 Guidelines](p5js/project/README.md)**
 
 ### Trimester 2: TBA
+* Recursion
+* Search & Sort Algorithms
+* Big 0 Notation
+* Data Structures
+* Data Visualization
+
 
 ### Trimester 3: TBA
+* Fullstack web development
