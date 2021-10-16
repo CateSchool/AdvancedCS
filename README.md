@@ -1,6 +1,7 @@
 # Cate Advanced Computer Science
 
 [Writing Good Code](codestyle.md)
+[Running code locally on your machine](local.md)
 
 ### Trimester 1: JavaScript & p5.js Fundamentals
 0. [Getting Started](p5js/0-Getting%20Started/README.md)
@@ -11,11 +12,11 @@
 5. [Arrays](p5js/5-Arrays/README.md)
 6. [Objects](p5js/6-Objects/README.md)
 7. [Object Oriented Programming](p5js/7-OOP/README.md)
-
-
-
+8. [Git / GitHub](p5js/7-Git/README.md)
+9. [HTML / CSS](p5js/9-HTML/README.md)
 
 **[Project 1 Guidelines](p5js/project/README.md)**
+
 
 ### Trimester 2: TBA
 * Recursion
