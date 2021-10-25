@@ -18,8 +18,7 @@
 
 ## Basic HTML Structure
 
-[Here's an HTML video overview](https://www.youtube.com/watch?v=PlxWf493en4).  
-HTML (HyperText Markup Language) is the basic building block of the Web. It is responsible for loading files and giving structure to web content.
+**HTML (HyperText Markup Language)** is the basic building block of the Web. It is responsible for loading files and giving structure to web content. [Here's an HTML video overview](https://www.youtube.com/watch?v=PlxWf493en4).  
   
 What goes in an HTML file?   
 * The `<head></head>` is where we load files, libraries, and styles or set meta-data (e.g. site title).
