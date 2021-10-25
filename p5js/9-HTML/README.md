@@ -112,8 +112,13 @@ Unordered
 ```  
 
 #### Forms
-* buttons
-* forms
+Buttons:
+
+```html
+<button onclick="myFunction()">click me!</button>
+```
+
+[Check out other HTML form elements here](https://www.w3schools.com/html/html_forms.asp).
 
 #### Section dividers
   
