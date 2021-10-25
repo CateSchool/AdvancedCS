@@ -88,6 +88,7 @@ Beginning in 2021, GitHub increased its security features. In order to push our 
 
 1. Turn on 2 factor authentication.
    * Profile icon > Settings > Account Security > Two-factor authentication
+   * Enable with your cellphone
 2. Create Personal Access Token
    * Profile icon > Settings > Developer Settings > Personal access tokens > Generate new token
    * Copy this long string and save it somewhere locally on your machine where you will find it.
@@ -98,7 +99,7 @@ Beginning in 2021, GitHub increased its security features. In order to push our 
 ### Push your local changes to Github
 1. Copy the code under "push existing repo" (see image below) and paste that into Git Bash / Mac Terminal. Hit enter.
 2. It should ask you for your **username**. Type your GitHub account.
-3. For your **password**, paste your **Personal Access Token**. 
+3. For your **password**, paste your **Personal Access Token**. You won't see anything change.
 4. If everything worked as planned, if you refresh the page on GitHub, you should see your project on GitHub.
 
 https://youtu.be/HJEzZbUclrg?t=324
@@ -111,6 +112,8 @@ If you want to be able to see your code running live on the web, we have to setu
 1. From the GitHub repo's home page (online), click "Settings".
 2. On the tab on the left, click pages.
 3. Under "source", select "main" and hit save.
+4. Go to the URL in green to see your code running live. It may take a few minutes to update.
+
 
 ![github pages](assets/githubpages.png)
 
