@@ -1,7 +1,5 @@
 # 5. Arrays
 
-
-  - [Accessing 2D Arrays](#--accessing-2d-arrays)
   - [Initializing Arrays](#initializing-arrays)
     - [push()](#push)
     - [other array methods](#other-array-methods)
