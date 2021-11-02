@@ -247,3 +247,78 @@ function draw() {
 ```
 
 ![two trees](assets/treedif.png)
+
+Consider a more nuanced example. Certain properties and methods are left out for clarity.
+
+```javascript
+// Tree.js
+class Tree {
+  
+  constructor() {
+    // other properties not included for clarity
+    this.h = 50;
+    this.age = 0;
+  }
+
+  getOlder() {
+    this.age++;
+    this.grow();
+  }
+
+  grow() {
+    this.h++;
+  }
+}
+```
+
+```javascript
+// ChristmasTree.js
+class ChristmasTree extends Tree {
+  
+  constructor() {
+  }
+
+  grow() {
+    this.h += 10;
+  }
+}
+```
+
+When we create a ChristmasTree in the sketch, let's see how fast the tree grows:
+
+
+```javascript
+// sketch.js
+let normalTree;
+let xmasTree;
+
+function setup() {
+    createCanvas(600, 400);
+
+    normalTree = new Tree(100, 100);
+    xmasTree = new ChristmasTree(150, 100);
+}
+
+function draw() {
+    background(255);
+
+    normalTree.display();
+    xmasTree.display();
+
+    normalTree.getOlder();
+    xmasTree.getOlder();
+}
+```
+
+Important note: there is no definition of `getOlder()` inside the ChristmasTree class. When the `xmasTree.getOlder()` method is called, it invokes the parent class method:
+
+```javascript
+// Tree.js 
+
+getOlder() {
+  this.age++;
+  this.grow();
+}
+```
+
+Despite calling `this.grow()` inside the parent Tree class, the `xmasTree` grows at a rate of 10 pixels (not 1). Since `this.grow()` is overridden in the child ChristmasTree class, the call to `this.grow()` in the parent class results in calling the `this.grow()` method of the child ChristmasTree class. In short, this is **polymorphism** at play.

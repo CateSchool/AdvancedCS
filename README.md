@@ -20,9 +20,26 @@
 
 ### Trimester 2: TBA
 * Recursion
-* Search & Sort Algorithms
 * Big 0 Notation
+* Search Algorithms
+  * linear
+  * binary
+* Sort Algorithms
+  * selection
+  * bubble
+  * merge sort
 * Data Structures
+  * arrays
+  * linked lists
+  * stacks
+  * queues
+  * trees
+  * graphs
+  * hash tables
+
+Choose from one of the following labs:
+1. location app (graph)
+
 * Data Visualization
 
 
