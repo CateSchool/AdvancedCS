@@ -19,59 +19,31 @@
 
 
 ## Unit 2: Searching & Sorting Algorithms
-
-### Topics
-* Big 0 Notation
-  * time and space complexity
-* Search Algorithms
-  * linear
-  * binary
-* Sort Algorithms
-  * selection
-  * bubble
-  * merge sort
+1. Big 0 Notation
+2. Recursion
+3. Sort Algorithms
+4. Search Algorithms
 
 ## Unit 3: Data Structures
+1. hash tables
+2. linked lists
+3. stacks
+4. queues
+5. trees
+6. graphs
 
-### Topics
-1. linked lists
-2. stacks
-3. queues
-4. trees
-5. graphs
-6. hash tables
-
-### Labs
-Students work in groups of 2 and choose from one of the following:
-1. location app (graph)
-2. paint app with undo/redo button (stacks)
-3. image compression (quad trees)
+**[Unit 3 Labs](unit3/labs/README.md)**
 
 
 ## Unit 4: Data Science with Python
-### Topics
-* Python programming
-  * numpy, pandas, matplotlib
-* Statistics
-  * sumamry statistics (mean, median, mode)
-  * Standard deviation/variance
-  * Correlation coefficient and the covariance matrix
-  * Probability distributions (Binomial, Poisson, Normal)
+1. Python programming (numpy, pandas, matplotlib...)
+2. Statistics
 
-### Project
-Collect, manipulate, clean, analyze large data set using Python
-Output results to JSON
+**[Unit 4 Project](unit4/project/README.md)**
+
 
 ## Unit 5: Data Visualization with Javascript
-### Topics
-* Effective data visualization
-* D3.js
-  * bar
-  * scatterplot
-  * line graph
-  * maps
+1. Effective data visualization
+2. D3.js
 
-### Project
-Final project = open-ended data report
-- must involve quantitative data analysis / manipulation with python
-- must involve interactive front-end web data visualization using JavaScript
+**[FINAL Project](unit5/project/README.md)**
