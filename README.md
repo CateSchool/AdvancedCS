@@ -3,7 +3,7 @@
 [Writing Good Code](codestyle.md)
 [Running code locally on your machine](local.md)
 
-### Trimester 1: JavaScript & p5.js Fundamentals
+## Unit 1: JavaScript & p5.js Fundamentals
 0. [Getting Started](p5js/0-Getting%20Started/README.md)
 1. [Variables](p5js/1-Variables/README.md)
 2. [Functions](p5js/2-Functions/README.md)
@@ -18,14 +18,9 @@
 **[Project 1 Guidelines](p5js/project/README.md)**
 
 
-### Trimester 2: 
+## Unit 2: Searching & Sorting Algorithms
 
-#### Unit 1: Data & APIs
-* fetch()
-* 
-
-group project 
-#### Unit 1: Search & Sort Algorithms
+### Topics
 * Big 0 Notation
   * time and space complexity
 * Search Algorithms
@@ -36,9 +31,9 @@ group project
   * bubble
   * merge sort
 
-**Some sort of lab or mini project?**
+## Unit 3: Data Structures
 
-#### Unit 2: Data Structures
+### Topics
 1. linked lists
 2. stacks
 3. queues
@@ -46,20 +41,37 @@ group project
 5. graphs
 6. hash tables
 
-Labs (students work in groups of 2 and choose from one of the following):
+### Labs
+Students work in groups of 2 and choose from one of the following:
 1. location app (graph)
 2. paint app with undo/redo button (stacks)
-3. **tree idea**
+3. image compression (quad trees)
 
-#### Unit 3: Data Science & Visualization
+
+## Unit 4: Data Science with Python
+### Topics
 * Python programming
-  * numpy, pandas, matplotlib introduction
+  * numpy, pandas, matplotlib
 * Statistics
   * sumamry statistics (mean, median, mode)
   * Standard deviation/variance
   * Correlation coefficient and the covariance matrix
   * Probability distributions (Binomial, Poisson, Normal)
-  * p-value
-  * Baye’s Theorem (Precision, Recall, Positive Predictive Value, Negative Predictive Value, Confusion Matrix, ROC Curve)
-  * A/B Testing
-  * Monte Carlo Simulation
+
+### Project
+Collect, manipulate, clean, analyze large data set using Python
+Output results to JSON
+
+## Unit 5: Data Visualization with Javascript
+### Topics
+* Effective data visualization
+* D3.js
+  * bar
+  * scatterplot
+  * line graph
+  * maps
+
+### Project
+Final project = open-ended data report
+- must involve quantitative data analysis / manipulation with python
+- must involve interactive front-end web data visualization using JavaScript
