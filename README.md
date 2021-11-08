@@ -18,13 +18,15 @@
 **[Project 1 Guidelines](p5js/project/README.md)**
 
 
-## Unit 2: Searching & Sorting Algorithms
+## Unit 2: Data Structures & Algorithms
+
+Searching & Sorting Algorithms
 1. Big 0 Notation
 2. Recursion
 3. Sort Algorithms
 4. Search Algorithms
 
-## Unit 3: Data Structures
+Data Structures
 1. hash tables
 2. linked lists
 3. stacks
@@ -32,18 +34,16 @@
 5. trees
 6. graphs
 
-**[Unit 3 Labs](unit3/labs/README.md)**
+**[Unit 2 Labs](unit2/labs/README.md)**
 
 
-## Unit 4: Data Science with Python
+## Unit 3: Data Science & Visualization
+Data Science with Python
 1. Python programming (numpy, pandas, matplotlib...)
 2. Statistics
 
-**[Unit 4 Project](unit4/project/README.md)**
-
-
-## Unit 5: Data Visualization with Javascript
+Data Visualization with Javascript
 1. Effective data visualization
 2. D3.js
 
-**[FINAL Project](unit5/project/README.md)**
+**[FINAL Project](unit3/project/README.md)**

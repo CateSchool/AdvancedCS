@@ -136,22 +136,28 @@ git push origin main
 
 ## Collaborating through Git
 
-**Under Construction**
-
 Let's assume two people are collaborating on a project (repo). 
 
 PARTNER 1
 1. Create the repo following the steps above
-2. Add a collaborator
+2. Add a collaborator:
+   1. On GitHub.com, navigate to the main page of the repository. 
+   2. Under your repository name, click Settings. 
+   3. In the left sidebar, click Manage access. 
+   4. Click Invite a collaborator.
 
 PARTNER 2
 1. Accept the collaborator invitation (you’ll probably get an email)
 2. Clone it down to your machine
-3. Create a new branch
-4. Open up the repo in your text editor and add the project
-5. Add, commit and push that code to your branch GitHub
-6. Create a pull request to merge your branch into main
-7. Add your partner as a reviewer
+
+`git clone yourGitURLHere`
+
+
+1. Create a new branch
+2. Open up the repo in your text editor and add the project
+3. Add, commit and push that code to your branch GitHub
+4. Create a pull request to merge your branch into main
+5. Add your partner as a reviewer
 
 PARTNER 1
 ... to be completed
