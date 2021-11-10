@@ -1,6 +1,6 @@
 # Cate Advanced Computer Science
 
-[Writing Good Code](codestyle.md)
+[Writing Good Code](codestyle.md)  
 [Running code locally on your machine](local.md)
 
 ## Unit 1: JavaScript & p5.js Fundamentals
@@ -21,10 +21,10 @@
 ## Unit 2: Data Structures & Algorithms
 
 Searching & Sorting Algorithms
-1. Big 0 Notation
-2. Recursion
-3. Sort Algorithms
-4. Search Algorithms
+1. [Big 0 Notation](unit2/algorithms/1-BigO/README.md)
+2. [Recursion](unit2/algorithms/2-Recursion/README.md)
+3. [Sort Algorithms](unit2/algorithms/3-Search/README.md)
+4. [Search Algorithms](unit2/algorithms/4-Sort/README.md)
 
 Data Structures
 1. hash tables
