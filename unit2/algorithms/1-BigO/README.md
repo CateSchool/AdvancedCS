@@ -32,7 +32,7 @@ function getLinear(n) {
 }
 ```
 
-Quadratic `O(n<sup></sup>)`
+Quadratic `O(n)` <sup>2</sup>
 ```javascript
 function getQuadratic(n) {
   let x = 0;
