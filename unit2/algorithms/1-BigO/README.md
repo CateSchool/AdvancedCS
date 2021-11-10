@@ -21,7 +21,7 @@ function getConstant(n) {
 }
 ```
 
-Constant `O(n)`
+Linear `O(n)`
 ```javascript
 function getLinear(n) {
   let x = 0;
