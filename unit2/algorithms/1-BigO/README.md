@@ -14,14 +14,14 @@ We use Big O to describe an algorithm's **complexity**, or the amount of resourc
 * constants don't matter
 * only take highest order term
 
-Constant `O(1)`
+Constant O(1)
 ```javascript
 function getConstant(n) {
   return n*100 + 20;
 }
 ```
 
-Linear `O(n)`
+Linear O(n)
 ```javascript
 function getLinear(n) {
   let x = 0;
@@ -32,7 +32,7 @@ function getLinear(n) {
 }
 ```
 
-Quadratic `O(n)` <sup>2</sup>
+Quadratic  O(n)<sup>2</sup>
 ```javascript
 function getQuadratic(n) {
   let x = 0;
