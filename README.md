@@ -1,7 +1,7 @@
 # Cate Advanced Computer Science
 
-[Writing Good Code](codestyle.md)  
-[Running code locally on your machine](local.md)
+[Writing Good Code](assets/codestyle.md)  
+[Running code locally on your machine](assets/local.md)
 
 ## Unit 1: JavaScript & p5.js Fundamentals
 0. [Getting Started](p5js/0-Getting%20Started/README.md)

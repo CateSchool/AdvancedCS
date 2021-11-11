@@ -21,3 +21,13 @@ npx http-server
 ```
 
 * Open a web browser and go to `localhost:8080` or whatever URL is posted in your terminal.
+
+### Developer Window (to see changes)
+In order to see your changes when you save / refresh, you need to:
+* Have your developer window always open
+  * Menu > More Tools > Developer Tools
+  * For shortcuts use Cmd + Opt + I on a Mac or F12 on Windows.
+* **disable the cache** 
+  * Network tab of developer tools, click to disable cache
+
+![disable cache](disablecache.png)
