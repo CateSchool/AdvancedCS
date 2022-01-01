@@ -1,5 +1,7 @@
 # Big 0
 
+[slide notes](https://docs.google.com/presentation/d/1hofPvMHXBBipxNjF7rr6q-qxJclXTXygcL6YIRNEEsY/edit?usp=sharing)
+
 [Watch this video for an overview of Big-O Notation](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
 Big O is a method for analyzing the efficiency of an algorithms, including both **space** (amount of memory) and **time** (how long to execute). We use Big O to describe an algorithm's **complexity**, the amount of resources (time and memory) it takes to run. Big O is used to classify algorithms when the input (referred to as `N`) approaches infinity.
@@ -30,9 +32,9 @@ function get3Constants(n) {
 }
 ```
 
-You might tink to describe the Big O as `3*O(1)` since this equation calls the constant function 3 times; however, we don't consider constant multipliers. [Here's an explanation from Stack Overflow](https://stackoverflow.com/questions/22188851/why-is-the-constant-always-dropped-from-big-o-analysis):
+You might think to describe the Big O as `3*O(1)` since this equation calls the constant function 3 times; however, we don't consider constant multipliers. [Here's an explanation from Stack Overflow](https://stackoverflow.com/questions/22188851/why-is-the-constant-always-dropped-from-big-o-analysis):
 
-    "Big-O notation doesn't care about constants because big-O notation only describes the long-term growth rate of functions, rather than their absolute magnitudes. Multiplying a function by a constant only influences its growth rate by a constant amount, so linear functions still grow linearly, logarithmic functions still grow logarithmically, exponential functions still grow exponentially, etc. Since these categories aren't affected by constants, it doesn't matter that we drop the constants."
+> Big-O notation doesn't care about constants because big-O notation only describes the long-term growth rate of functions, rather than their absolute magnitudes. Multiplying a function by a constant only influences its growth rate by a constant amount, so linear functions still grow linearly, logarithmic functions still grow logarithmically, exponential functions still grow exponentially, etc. Since these categories aren't affected by constants, it doesn't matter that we drop the constants."
 
 In short, we consider this algorithm to have a time complexity of `O(1)` and drop the 3.
 
