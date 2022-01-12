@@ -5,14 +5,10 @@
 
 Big O is a method for analyzing the efficiency of an algorithms, including both **space** (amount of memory) and **time** (how long to execute). We use Big O to describe an algorithm's **complexity**, the amount of resources (time and memory) it takes to run. Big O is used to classify algorithms when the input (referred to as `N`) approaches infinity.
 
+Considerations of Big O:    
+1. we examine algorithms as a function of `N` when `N` **approaches infinity**
+2. we analyze an algorithm's **worst-case** running time / memory use
 
-A few considerations about Big O analysis:
-1. we examine algorithms as a function of `N` when `N` approaches infinity
-1. we analyze an algorithm's **worst-case** running time / memory use
-2. we ignore constants (more on this below)
-3. only take highest order term (more on this below)
-
-Let's look at a few examples to consider the time complexity.
 
 ## Constant O(1)
 A constant time algorithm will take the same amount of time no matter what size `N` (the input) is. We use the notation `O(1)` for constant time algorithms.
@@ -64,21 +60,27 @@ function getQuadratic(n) {
 }
 ```
 
-## Highest Order Terms
+## Rules
 
-At first glance, we might describe the Big O of `getCombo()` as the sum of the orders of its other function calls, in other words:
+When calculating Big O:   
+1. We **ignore constants** (more on this below)
+2. only take **highest order term** (more on this below)
 
-```
-O(1) + O(n) + O(n^2)
-```
+For example:  
  
 ```javascript
 function getCombo(n) {
   return getConstant(n) + getLinear(n) + getQuadratic(n);
 }
 ```
-**HOWEVER**, for functions that involve a variety of terms such as `O(1)` and `O(n)`, we only consider the **highester order term**. This is because for very large values of `N`, constants and low-order terms don't have a significant impact on the time / space complexity relative to higher order terms. For this reason, we would describe `getCombo()` as having a time complexity of O(n<sup>2</sup>), the highest order term.
 
+At first glance, we might describe the Big O of `getCombo()` as the sum of the orders of its other function calls, in other words:
+
+```
+O(1) + O(n) + O(n^2)
+```
+
+**HOWEVER**, for functions that involve a variety of terms such as `O(1)` and `O(n)`, we only consider the **highester order term**. This is because for very large values of `N`, constants and low-order terms don't have a significant impact on the time / space complexity relative to higher order terms. For this reason, we would describe `getCombo()` as having a time complexity of O(n<sup>2</sup>), the highest order term.
 
 
 ## Visualization of Big O
