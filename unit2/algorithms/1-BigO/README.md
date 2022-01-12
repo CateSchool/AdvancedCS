@@ -9,8 +9,9 @@ Considerations of Big O:
 1. we examine algorithms as a function of `N` when `N` **approaches infinity**
 2. we analyze an algorithm's **worst-case** running time / memory use
 
+## Orders 
 
-## Constant O(1)
+### Constant O(1)
 A constant time algorithm will take the same amount of time no matter what size `N` (the input) is. We use the notation `O(1)` for constant time algorithms.
 
 ```javascript
@@ -33,7 +34,7 @@ You might think to describe the Big O as `3*O(1)` since this equation calls the 
 
 In short, we consider this algorithm to have a time complexity of `O(1)` and drop the 3.
 
-## Linear O(n)
+### Linear O(n)
 The following function effectively has `N` operations (we use a for loop to repeat an operation n times):
 
 ```javascript
@@ -46,7 +47,7 @@ function getLinear(n) {
 }
 ```
 
-## Quadratic O(n<sup>2</sup>)
+### Quadratic O(n<sup>2</sup>)
 
 ```javascript
 function getQuadratic(n) {
@@ -83,7 +84,7 @@ O(1) + O(n) + O(n^2)
 **HOWEVER**, for functions that involve a variety of terms such as `O(1)` and `O(n)`, we only consider the **highester order term**. This is because for very large values of `N`, constants and low-order terms don't have a significant impact on the time / space complexity relative to higher order terms. For this reason, we would describe `getCombo()` as having a time complexity of O(n<sup>2</sup>), the highest order term.
 
 
-## Visualization of Big O
+## Visualization
 ![big o](big0.jpeg)
 
 
