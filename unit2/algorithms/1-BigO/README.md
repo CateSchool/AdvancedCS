@@ -1,8 +1,7 @@
 # Big 0
 
-[slide notes](https://docs.google.com/presentation/d/1hofPvMHXBBipxNjF7rr6q-qxJclXTXygcL6YIRNEEsY/edit?usp=sharing)
-
-[Watch this video for an overview of Big-O Notation](https://www.youtube.com/watch?v=__vX2sjlpXU)
+* [Slides](https://docs.google.com/presentation/d/1hofPvMHXBBipxNjF7rr6q-qxJclXTXygcL6YIRNEEsY/edit?usp=sharing)
+* [Watch this video for an overview of Big-O Notation](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
 Big O is a method for analyzing the efficiency of an algorithms, including both **space** (amount of memory) and **time** (how long to execute). We use Big O to describe an algorithm's **complexity**, the amount of resources (time and memory) it takes to run. Big O is used to classify algorithms when the input (referred to as `N`) approaches infinity.
 
