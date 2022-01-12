@@ -1,8 +1,9 @@
 # Cate Advanced Computer Science
 
-[Writing Good Code](assets/codestyle.md)  
-[Running code locally on your machine](assets/local.md)
-
+Useful notes:
+* [Writing Good Code](assets/codestyle.md)  
+* [Running code locally on your machine](assets/local.md)
+* [Git / GitHub](p5js/8-Git/README.md)
 ## Unit 1: JavaScript & p5.js Fundamentals
 0. [Getting Started](p5js/0-Getting%20Started/README.md)
 1. [Variables](p5js/1-Variables/README.md)
@@ -38,12 +39,6 @@ Data Structures
 
 
 ## Unit 3: Data Science & Visualization
-Data Science with Python
-1. Python programming (numpy, pandas, matplotlib...)
-2. Statistics
-
-Data Visualization with Javascript
-1. Effective data visualization
-2. D3.js
+TBA
 
 **[FINAL Project](unit3/project/README.md)**

@@ -10,3 +10,5 @@
   * Probability distributions (Binomial, Poisson, Normal)
 
 ## Data Viz
+Effective data visualization
+D3.js
