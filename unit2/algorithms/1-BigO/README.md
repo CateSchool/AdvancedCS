@@ -1,9 +1,5 @@
 # Big 0
 
-[Slides](https://docs.google.com/presentation/d/1hofPvMHXBBipxNjF7rr6q-qxJclXTXygcL6YIRNEEsY/edit?usp=sharing)  
-[Video](https://www.youtube.com/watch?v=__vX2sjlpXU)
-
----
   - [Orders](#orders)
     - [Constant O(1)](#constant-o1)
     - [Linear O(n)](#linear-on)
@@ -13,7 +9,10 @@
 
 ---
 
-Big O is a method for analyzing the efficiency of an algorithms, including both **space** (amount of memory) and **time** (how long to execute). We use Big O to describe an algorithm's **complexity**, the amount of resources (time and memory) it takes to run. Big O is used to classify algorithms when the input (referred to as `N`) approaches infinity.
+[Slides](https://docs.google.com/presentation/d/1hofPvMHXBBipxNjF7rr6q-qxJclXTXygcL6YIRNEEsY/edit?usp=sharing)  
+[Video](https://www.youtube.com/watch?v=__vX2sjlpXU)
+
+**Big O** is a method for analyzing the efficiency of an algorithms, including both **space** (amount of memory) and **time** (how long to execute). We use Big O to describe an algorithm's **complexity**, the amount of resources (time and memory) it takes to run. Big O is used to classify algorithms when the input (referred to as `N`) approaches infinity.
 
 Considerations of Big O:    
 1. we examine algorithms as a function of `N` when `N` **approaches infinity**
