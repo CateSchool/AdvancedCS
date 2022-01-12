@@ -1,6 +1,6 @@
 # Big 0
 
-[Slides](https://docs.google.com/presentation/d/1hofPvMHXBBipxNjF7rr6q-qxJclXTXygcL6YIRNEEsY/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1hofPvMHXBBipxNjF7rr6q-qxJclXTXygcL6YIRNEEsY/edit?usp=sharing)  
 [Video](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
 ---
