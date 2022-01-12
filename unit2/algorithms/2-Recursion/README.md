@@ -1,6 +1,6 @@
 # Recursion
 
-[slide notes](https://docs.google.com/presentation/d/1Sq7Muc1y4QVwxczjBsBK0jeLWepXWAMoCoL91y1SouM/edit?usp=sharing)
+[slides](https://docs.google.com/presentation/d/1Sq7Muc1y4QVwxczjBsBK0jeLWepXWAMoCoL91y1SouM/edit?usp=sharing)
 
 A **recursive** function is a function that calls itself. Every recursive function has two parts:
 

@@ -24,8 +24,8 @@ Useful notes:
 Searching & Sorting Algorithms
 1. [Big 0 Notation](unit2/algorithms/1-BigO/README.md)
 2. [Recursion](unit2/algorithms/2-Recursion/README.md)
-3. [Sort Algorithms](unit2/algorithms/3-Search/README.md)
-4. [Search Algorithms](unit2/algorithms/4-Sort/README.md)
+3. [Search Algorithms](unit2/algorithms/3-Search/README.md)
+4. [Sort Algorithms](unit2/algorithms/4-Sort/README.md)
 
 Data Structures
 1. hash tables
