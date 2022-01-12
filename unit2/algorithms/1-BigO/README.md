@@ -1,5 +1,15 @@
 # Big 0
 
+- [Big 0](#big-0)
+  - [Orders](#orders)
+    - [Constant O(1)](#constant-o1)
+    - [Linear O(n)](#linear-on)
+    - [Quadratic O(n<sup>2</sup>)](#quadratic-onsup2sup)
+  - [Rules](#rules)
+  - [Visualization](#visualization)
+
+---
+
 * [Slides](https://docs.google.com/presentation/d/1hofPvMHXBBipxNjF7rr6q-qxJclXTXygcL6YIRNEEsY/edit?usp=sharing)
 * [Watch this video for an overview of Big-O Notation](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
