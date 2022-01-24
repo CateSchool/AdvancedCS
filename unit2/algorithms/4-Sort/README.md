@@ -57,7 +57,7 @@ If n > l
      * Worst case, both algorithms will have to scan the array one time for *every* element in the array to ensure move the element to the correct location (e.g. scan N times for N elements), or O(n<sup>2</sup>).
 2. **For the worst case** scenario, **merge sort performs better** than selection sort and bubble sort: **O(n log n)**.
      * For a wishy-washy explanation, see [Harvard CS50](https://youtu.be/jUyQqLvg8Qw?t=4284).
-3. **When the array is already sorted, bubble sort is more efficient** than either selection or merge sort. Examine the animation and the code to explain why.  
+3. **When the array is already sorted, bubble sort is more efficient— O(n) —** than either selection or merge sort. Examine the animation and the code to explain why.  
 
 ### Time Complexity Visualization:
 
