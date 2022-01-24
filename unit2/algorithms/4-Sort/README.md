@@ -48,13 +48,13 @@ If n > l
 
 | Algorithm  | Big-O  | Big-Ω  | 
 |---|---|---|
-| Selection Sort  | O(n^2)  | Ω(n^2)  | 
-| Bubble Sort  | O(n^2)  | Ω(n)  |  
+| Selection Sort  | O(n<sup>2</sup>)  | Ω(n<sup>2</sup>)  | 
+| Bubble Sort  | O(n<sup>2</sup>)  | Ω(n)  |  
 | Merge Sort  | O(n log n)  | Ω(n log n  |   
 
 ### Key takeaways:
-1. **Worst case selection sort and bubble sort are O(n^2)**. 
-     * Worst case, both algorithms will have to scan the array one time for *every* element in the array to ensure move the element to the correct location (e.g. scan N times for N elements), or O(n^2).
+1. **Worst case selection sort and bubble sort are O(n<sup>2</sup>)**. 
+     * Worst case, both algorithms will have to scan the array one time for *every* element in the array to ensure move the element to the correct location (e.g. scan N times for N elements), or O(n<sup>2</sup>).
 2. **For the worst case** scenario, **merge sort performs better** than selection sort and bubble sort: **O(n log n)**.
      * For a wishy-washy explanation, see [Harvard CS50](https://youtu.be/jUyQqLvg8Qw?t=4284).
 3. **When the array is already sorted, bubble sort is more efficient** than either selection or merge sort. Examine the animation and the code to explain why.  
