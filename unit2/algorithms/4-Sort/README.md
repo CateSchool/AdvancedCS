@@ -44,7 +44,7 @@ If n > l
 [link to gifs](http://www-scf.usc.edu/~zhan468/public/Notes/sorting.html)
 
 ## Big O & Big-Ω 
-**Big-Ω** (Big-Omega) refers to the **best-case** time of an algorithmm. We will consider both Big-O and B-Ω of these 3 sorting algorithms.
+**Big-Ω** (Big-Omega) refers to the **best-case** time of an algorithmm. We will consider both Big-O and Big-Ω of these 3 sorting algorithms.
 
 | Algorithm  | Big-O  | Big-Ω  | 
 |---|---|---|
@@ -52,12 +52,13 @@ If n > l
 | Bubble Sort  | O(n^2)  | Ω(n)  |  
 | Merge Sort  | O(n log n)  | Ω(n log n  |   
 
-### Notes:
-* **For the worst case** scenario, **merge sort performs better** than selection sort and bubble sort. 
-  * For selection sort and bubble sort, worst-case scenario both algorithms will have to scan the array one time for *every* element in the array to ensure move the element to the correct location (e.g. scan N times for N elements), or O(n^2).
-  * Merge sort effectively breaks the array down in half, in half, in half, ... (think log n when constantly dividing by 2). The merge step must touch every element in the array, so the total Big-O is O(n log n). [Harvard CS50 explanation](https://youtu.be/jUyQqLvg8Qw?t=4284).
-* **When the array is already sorted, bubble sort is more efficient** than either selection or merge sort. Examine the animation and the code to explain why.  
+### Key takeaways:
+1. **Worst case selection sort and bubble sort are O(n^2)**. 
+     * Worst case, both algorithms will have to scan the array one time for *every* element in the array to ensure move the element to the correct location (e.g. scan N times for N elements), or O(n^2).
+2. **For the worst case** scenario, **merge sort performs better** than selection sort and bubble sort: **O(n log n)**.
+     * For a wishy-washy explanation, see [Harvard CS50](https://youtu.be/jUyQqLvg8Qw?t=4284).
+3. **When the array is already sorted, bubble sort is more efficient** than either selection or merge sort. Examine the animation and the code to explain why.  
 
-### Time Complexity Visualization
+### Time Complexity Visualization:
 
 ![time complexity](assets/bigo.jpeg)
