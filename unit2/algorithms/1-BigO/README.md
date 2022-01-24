@@ -1,4 +1,4 @@
-# Big 0
+# Big O
 
   - [Orders](#orders)
     - [Constant O(1)](#constant-o1)
