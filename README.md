@@ -21,11 +21,11 @@ Useful notes:
 
 ## Unit 2: Data Structures & Algorithms
 
-Searching & Sorting Algorithms
-1. [Big O Notation](unit2/algorithms/1-BigO/README.md)
-2. [Recursion](unit2/algorithms/2-Recursion/README.md)
-3. [Search Algorithms](unit2/algorithms/3-Search/README.md)
-4. [Sort Algorithms](unit2/algorithms/4-Sort/README.md)
+Searching & Sorting Algorithms  
+0. [Big O Notation](unit2/algorithms/0-BigO/README.md)
+1. [Recursion](unit2/algorithms/1-Recursion/README.md)
+2. [Search Algorithms](unit2/algorithms/2-Search/README.md)
+3. [Sort Algorithms](unit2/algorithms/3-Sort/README.md)
 
 Data Structures 
 
