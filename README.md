@@ -31,9 +31,9 @@ Data Structures
 
 0. [Arrays](unit2/data_structures/0-Arrays/README.md)
 1. [HashMaps](unit2/data_structures/1-HashMap/README.md)
-2. [Linked Lists]()
-3. [Trees]()
-4. [Graphs]()
+2. [Linked Lists](unit2/data_structures/3-LinkedLists/README.md)
+3. [Trees](unit2/data_structures/3-Trees/README.md)
+4. [Graphs](unit2/data_structures/4-Graphs/README.md)
 
 **[Unit 2 Presentations](unit2/data_structures/presentation.md)**  
 **[Unit 2 Labs](unit2/labs/README.md)**
