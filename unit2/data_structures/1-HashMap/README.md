@@ -1,6 +1,12 @@
 # Hash Map
 
-HashMaps are like arrays but use index labels (**keys**) for very fast retrieval of information (**values**). Consider JavaScript objects, which essentially have the same functionality as hash maps:
+  - [Hash Functions](#hash-functions)
+  - [Collisions...](#collisions)
+  - [JavaScript Map class](#javascript-map-class)
+  - [Big O](#big-o)
+
+---
+**HashMaps** are like arrays but use index labels (**keys**) for very fast retrieval of information (**values**). Consider JavaScript objects, which essentially have the same functionality as hash maps:
 
 ```javascript
 let pet = {
@@ -39,7 +45,6 @@ console.log(getHash("age"));    // 4
 If we implement a hashmap with an array (in this case of length 6), here is how we might use our hash function and keys to store (and retrieve) data:
 
 ![hashmap](assets/hashmap.png)
-
 
 ## Collisions...
 The story of hashmaps gets more complicated when we consider the possibility of **collisions**— when two different keys produce the same hash code. In our example above, "bites" and "age" produce the same bin number.
