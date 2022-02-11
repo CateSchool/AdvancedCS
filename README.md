@@ -27,7 +27,8 @@ Searching & Sorting Algorithms
 3. [Search Algorithms](unit2/algorithms/3-Search/README.md)
 4. [Sort Algorithms](unit2/algorithms/4-Sort/README.md)
 
-Data Structures  
+Data Structures 
+ 
 0. [Arrays](unit2/data_structures/0-Arrays/README.md)
 1. [HashMaps](unit2/data_structures/0-Arrays/README.md)
 2. [Linked Lists]()
