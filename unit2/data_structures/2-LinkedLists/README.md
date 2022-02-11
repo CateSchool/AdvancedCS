@@ -32,7 +32,7 @@ class SingleNode {
     }
 }
 
-class SingleLinkedList {
+class SinglyLinkedList {
     constructor() {
         this.head = null;   // node
     }
@@ -62,7 +62,7 @@ class DoubleNode {
     }
 }
 
-class DoubleLinkedList {
+class DoublyLinkedList {
     constructor() {
         this.head = null;   // node
         this.tail = null;   // node
@@ -73,7 +73,7 @@ class DoubleLinkedList {
     // insert node at end of the list
     append(value) {
         let newNode = new DoubleNode(value);
-        
+
         this.tail.next = newNode;
         newNode.previous = this.tail;
         this.tail = newNode;
