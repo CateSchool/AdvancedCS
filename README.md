@@ -28,13 +28,13 @@ Searching & Sorting Algorithms
 4. [Sort Algorithms](unit2/algorithms/4-Sort/README.md)
 
 Data Structures
-1. hash tables
-2. linked lists
-3. stacks
-4. queues
-5. trees
-6. graphs
+0. [Arrays](unit2/data_structures/0-Arrays/README.md)
+1. [HashMaps](unit2/data_structures/0-Arrays/README.md)
+2. [Linked Lists]()
+3. [Trees]()
+4. [Graphs]()
 
+**[Unit 2 Presentations](unit2/data_structures/presentation.md)**  
 **[Unit 2 Labs](unit2/labs/README.md)**
 
 
