@@ -63,7 +63,20 @@ class Graph {
 }
 ```
 ## Big O  
-TBD
+
+Watch [this video](https://www.youtube.com/watch?v=anbyBqluvjs&t=83s) for an overview of Big O.
+
+|  Data Structure  |     Storage    |  Add Node  | Add Edge |    Remove Node   | Remove Edge |   Query  |
+|:----------------:|:--------------:|:----------:|:--------:|:----------------:|:-----------:|:--------:|
+|  Adjacency list  | O(\|V\|+\|E\|) |    O(1)    |   O(1)   | O(\|V\| + \|E\|) |   O(\|E\|)  | O(\|V\|) |
+| Adjacency matrix |   O(\|V\|^2)   | O(\|V\|^2) |   O(1)   |    O(\|V\|^2)    |     O(1)    |   O(1)   |
+
+**Note**:  
+||	notation refers to *cardinality*— the number of elements of set.
+
+```
+ |A| =	|{3, 4}| = 2
+```
 
 ## Resources
 [Video](https://www.youtube.com/watch?v=c8P9kB1eun4

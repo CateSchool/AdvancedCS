@@ -85,4 +85,8 @@ class DoublyLinkedList {
 
 ## Big O
 
-TBA
+|               | Access | Insert/Delete @ beginning | Insert/Delete @ end | Insert/Delete mid |
+|---------------|:------:|:-------------------------:|:-------------------:|:-----------------:|
+|     Array     |  O(1)  |            O(n)           |         O(1)        |        O(n)       |
+| Singly Linked |  O(n)  |            O(1)           |         O(n)        |        O(n)       |
+| Doubly Linked |  O(n)  |            O(1)           |         O(1)        |        O(n)       |
