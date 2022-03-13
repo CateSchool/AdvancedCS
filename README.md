@@ -37,8 +37,6 @@ Data Structures
 4. [Graphs](unit2/data_structures/4-Graphs/README.md)
 
 **[Unit 2 Presentations](unit2/data_structures/presentation.md)**  
-**[Unit 2 Labs](unit2/labs/README.md)**
-
 
 ## Unit 3: Data Science & Visualization
 TBA

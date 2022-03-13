@@ -4,8 +4,8 @@ Students will analyze and visualize a large data set based on a personally-relev
 
 The project consists of two parts:
 
-1. **Google CoLab Notebook** - a Python "lab notebook" that documents the process of collecting, cleaning, understanding, and analyzing your data. 
-2. **Visual Data Essay** - a web-based report that tells a **coherent, unified story** based on your data analysis. This report mixes interactive visualizations with narrative text.
+1. [Google CoLab Notebook](#1-google-colab-notebook) - a Python "lab notebook" that documents the process of collecting, cleaning, understanding, and analyzing your data. 
+2. [Visual Data Essay](#2-visual-data-essay) - a HTML/JavaScript web-based report that tells a **coherent, unified story** based on your data analysis. This report mixes interactive visualizations with narrative text.
 
 ![data viz](assets/data.jpeg)
 ### 1. Google CoLab Notebook
@@ -27,7 +27,8 @@ Each visualization should:
   * Whenever relevant, include axis labels, units, titles, and legends.
   * Include a link to the data source in a comment in the code, as well as a citation of the source (for example, a label at the bottom of the chart)
 
-### Resources
+
+## Resources
 
 **Useful sites** 
 
