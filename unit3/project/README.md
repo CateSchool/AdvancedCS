@@ -8,7 +8,7 @@
 
 ---
 ## I. Overview 
-Students will analyze and visualize a large data set based on a personally-relevant **theme** (e.g. public health, incarceration, climate change, or affordable housing). You might consider advocating for a particular policy (e.g. pushing the school to divest from fossil fuels), or spreading awareness about a social justice issue (e.g. the school to prison pipeline). **Begin by identifying your goal**, and start to accumulate data sets relevant to your topic.  
+Students will analyze and visualize large data sets in the creation of a web-based visual essay. Students will begin by selecting a personally-relevant **theme** (e.g. public health, mass incarceration, climate change, or affordable housing). After amassing relevant datasets and performing quantitative analysis, students will tell a persuasive, engaging story about the data using code.
 
 The project consists of two parts:
 
