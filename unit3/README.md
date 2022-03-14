@@ -12,3 +12,6 @@
 ## Data Viz
 Effective data visualization
 D3.js
+
+
+ descriptive statistics, hypothesis testing, confidence intervals
