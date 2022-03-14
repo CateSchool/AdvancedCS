@@ -1,5 +1,13 @@
 # Final Project
 
+  - [I. Overview](#i-overview)
+    - [1. Google Colab Notebook](#1-google-colab-notebook)
+    - [2. Visual Data Essay](#2-visual-data-essay)
+  - [II. Suggested Timeline](#ii-suggested-timeline)
+  - [III. Resources](#iii-resources)
+
+---
+## I. Overview 
 Students will analyze and visualize a large data set based on a personally-relevant **theme** (e.g. public health, incarceration, climate change, or affordable housing). You might consider advocating for a particular policy (e.g. pushing the school to divest from fossil fuels), or spreading awareness about a social justice issue (e.g. the school to prison pipeline). **Begin by identifying your goal**, and start to accumulate data sets relevant to your topic.  
 
 The project consists of two parts:
@@ -37,7 +45,7 @@ Each visualization should:
   * Whenever relevant, include axis labels, units, titles, and legends.
   * Include a link to the data source in a comment in the code, as well as a citation of the source (for example, a label at the bottom of the chart)
 
-## Suggested Timeline
+## II. Suggested Timeline
 
 | **Week** | **Date** |       **Topic**      |
 |:--------:|----------|:--------------------:|
@@ -49,7 +57,7 @@ Each visualization should:
 |    30    |    5/9   | Data Viz 3           |
 |    31    |   5/16   | Finalize Reports     |
 
-## Resources
+## III. Resources
 **Data sets**
 * [Kaggle](https://www.kaggle.com/)
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
