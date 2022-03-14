@@ -8,7 +8,7 @@
 
 ---
 ## I. Overview 
-Students will analyze and visualize large data sets in the creation of a web-based visual essay. Students will begin by selecting a personally-relevant **theme** (e.g. public health, mass incarceration, climate change, or affordable housing). After amassing relevant datasets and performing quantitative analysis, students will tell a persuasive, engaging story about the data using code.
+Students will analyze and visualize large data sets in the creation of a web-based visual essay. Students will begin by selecting a personally-relevant **theme** (e.g. public health, mass incarceration, climate change, or affordable housing). After amassing related datasets and performing quantitative analysis, students will tell a persuasive, engaging story about the data using code.
 
 The project consists of two parts:
 
