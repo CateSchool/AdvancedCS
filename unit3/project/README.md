@@ -45,6 +45,7 @@ Each visualization should:
   * Whenever relevant, include axis labels, units, titles, and legends.
   * Include a link to the data source in a comment in the code, as well as a citation of the source (for example, a label at the bottom of the chart)
 
+---
 ## II. Suggested Timeline
 
 | **Week** | **Date** |       **Topic**      |
@@ -57,6 +58,7 @@ Each visualization should:
 |    30    |    5/9   | Data Viz 3           |
 |    31    |   5/16   | Finalize Reports     |
 
+---
 ## III. Resources
 **Data sets**
 * [Kaggle](https://www.kaggle.com/)
