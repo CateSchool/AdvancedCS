@@ -21,16 +21,18 @@ As you're first starting to make sense of your data, your initial ideas and anal
 
 [Here is a notebook demo](https://colab.research.google.com/drive/1KXW8jxytbLFwOS8diw428mTMqZ-LwBKt?usp=sharing).
 
-Your Google Colab Notebook should loosely resemble a lab notebook that works through the **scientific method** in order to draw conclusions from your data. For example, you might have the following sections:
+Your Google Colab Notebook should loosely resemble a lab notebook that works through the **scientific method** in order to draw conclusions from your data. (Where relevant) your notebook should have the following sections:
 
-1. *Dataset Overview* - a link to and overview of the dataset 
-1. *Guiding Questions* - questions you intend to explore about the data 
-2. *Exploratory Analysis* - explore your data and make observations using simple plots, graphs, etc
-3. *Hypotheses* - form some conjectures based on the observations
-4. *Quantitative Analysis* - e.g. mean, median, mode, aggregation, ...
-5. *Conclusions* - what you learned about the data
-6. *Data Output* - a cleaned dataset ready to be exported / visualized
-7. *Citations*
+1. *Title Block* - name, date, quick overview
+2. *Table of Contents* - links to other sections
+3. *Dataset Overview* - a link to and overview of (e.g. column names/ data types) the dataset 
+4. *Guiding Questions* - questions you intend to explore about the data 
+5. *Exploratory Analysis* - explore your data and make observations using simple plots, graphs, etc
+6. *Hypotheses* - form some conjectures based on the observations
+7. *Quantitative Analysis* - e.g. mean, median, mode, aggregation, linear regression ...
+8. *Conclusions* - summarize what you learned about the data
+9. *Data Output* - a cleaned dataset ready to be exported / visualized
+10. *Citations*
  
 ### 2. Visual Data Essay
 Once you have analyzed your data, you need to present the information and conclusions in a compelling, engaging, and polished web-based report that combines narrative text and interactive data visualizations. The report should include:
