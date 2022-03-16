@@ -2,7 +2,7 @@
 
 ## Data Science
 * Python programming
-  * numpy, pandas, matplotlib
+  * numpy, pandas, matplotlib, seaborn
 * Statistics
   * sumamry statistics (mean, median, mode)
   * Standard deviation/variance
