@@ -5,6 +5,7 @@
     - [2. Visual Data Essay](#2-visual-data-essay)
   - [II. Suggested Timeline](#ii-suggested-timeline)
   - [III. Resources](#iii-resources)
+  - [IV. Copying Code](#iv-copying-code)
 
 ---
 ## I. Overview 
@@ -40,7 +41,7 @@ Once you have analyzed your data, you need to present the information and conclu
 * **3 visualizations taking different analytical approaches**  
   * *At least 1* must be creative & **innovative** (i.e. more novel than bar charts, scatter plots, pie charts, histograms, etc.) 
   * *At least 1* of your visualizations must include some form of **interaction**. 
-  * You can use p5.js, d3.js, or other libraries (e.g. three.js!)
+  * *At least 2* different JavaScript libraries - p5.js, d3.js, or something else (e.g. chart.js or three.js!)
 * **Written explanations, context, and analysis** to support the visual narrative and make a persuasive argument about your topic (>= 300 words).
 
 Each visualization should: 
@@ -85,3 +86,10 @@ Each visualization should:
 * [NYT Tulsa Massacre Visualization](https://www.nytimes.com/interactive/2021/05/24/us/tulsa-race-massacre.html)
 * [Women in Headlines](https://pudding.cool/2022/02/women-in-headlines/)
 * [The Marshall Project](https://www.themarshallproject.org/2020/12/18/1-in-5-prisoners-in-the-u-s-has-had-covid-19)
+
+---
+## IV. Copying Code
+For some visualizations, particularly if you're using D3.js, you will want to start with sample code. It is fine to copy/paste the examples **as long as**:
+
+1. There is a comment with a URL documenting the source.
+2. You change the code in a meaningful, significant way.
