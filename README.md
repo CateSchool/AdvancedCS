@@ -47,7 +47,7 @@ Google Colab
 3. [Line Plots](https://colab.research.google.com/drive/1NzQA3l-b9qyqNdey9psBdgwPPhIu6flZ?usp=sharing)
 4. [Linear Regression](https://colab.research.google.com/drive/1W5LMu_xFqLVBnwkRphU7-e9vpl5lMK2_?usp=sharing)
 
-Statistics - TBA  
+
 D3.js Data Visualization - TBA  
 
 **[FINAL Project](unit3/project/README.md)**

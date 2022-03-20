@@ -36,18 +36,23 @@ Your Google Colab Notebook should loosely resemble a lab notebook that works thr
 10. *Citations*
  
 ### 2. Visual Data Essay
-Once you have analyzed your data, you need to present the information and conclusions in a compelling, engaging, and polished web-based report that combines narrative text and interactive data visualizations. The report should include:
+Once you have analyzed your data, you need to present the information and conclusions in a compelling, engaging, and polished web-based report that combines narrative text and interactive data visualizations. 
+
+The report should include:  
 
 * **3 visualizations taking different analytical approaches**  
   * *At least 1* must be creative & **innovative** (i.e. more novel than bar charts, scatter plots, pie charts, histograms, etc.) 
   * *At least 1* of your visualizations must include some form of **interaction**. 
-  * *At least 2* different JavaScript libraries - p5.js, d3.js, or something else (e.g. chart.js or three.js!)
+  * *At least 1* must use D3.js
+  
 * **Written explanations, context, and analysis** to support the visual narrative and make a persuasive argument about your topic (>= 300 words).
 
-Each visualization should: 
+* Strongly encouraged to **try additional JavaScript libraries** (e.g. [Leaflet.js](https://www.youtube.com/watch?v=nZaZ2dB6pow&t=2s), [mappa.js](https://mappa.js.org/docs/taxi-routes.html), chart.js, three.js, ...)
 
-* Have its own Javascript file but be embedded within the HTML report
-* Include documentation
+Each visualization should include:  
+
+* its own Javascript file but be embedded within the HTML report
+* documentation
   * Whenever relevant, include axis labels, units, titles, and legends.
   * Include a link to the data source in a comment in the code, as well as a citation of the source (for example, a label at the bottom of the chart)
 
