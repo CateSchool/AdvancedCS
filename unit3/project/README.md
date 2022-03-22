@@ -59,6 +59,7 @@ Each visualization should include:
 ---
 ## II. Suggested Timeline
 
+### D Block
 | **Week** | **Date** |       **Topic**      |
 |:--------:|----------|:--------------------:|
 |   23-25  |    ...   | Introduction to Unit |
@@ -68,6 +69,18 @@ Each visualization should include:
 |    29    |    5/2   | Data Viz 2           |
 |    30    |    5/9   | Data Viz 3           |
 |    31    |   5/16   | Finalize Reports     |
+
+### B Block
+| **Week** | **Date** |       **Topic**      |
+|:--------:|----------|:--------------------:|
+|   23-24  |    ...   | Data Structures      |
+|   25-26  |    ...   | Introduction to Unit |
+|    27    |   4/18   | CoLab Report         |
+|    28    |   4/25   | Data Viz 1           |
+|    29    |    5/2   | Data Viz 2           |
+|    30    |    5/9   | Data Viz 3           |
+|    31    |   5/16   | Finalize Reports     |
+
 
 ---
 ## III. Resources
