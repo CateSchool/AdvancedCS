@@ -1,4 +1,4 @@
-# 0. Getting Started
+# 1. Getting Started
 
   - [Repl.it](#replit)
   - [console.log()](#consolelog)

@@ -1,5 +1,5 @@
 
-# 8. Git / GitHub
+# 9. Git / GitHub
 
 - [What is Git / GitHub](#what-is-git--github)
   - [Installing Git](#installing-git)

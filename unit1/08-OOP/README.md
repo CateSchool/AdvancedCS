@@ -1,4 +1,4 @@
-# 7. Object Oriented Programming
+# 8. Object Oriented Programming
 
   - [Classes (a.k.a Object Constructor)](#classes-aka-object-constructor)
     - [Arrays of Objects](#arrays-of-objects)

@@ -1,4 +1,4 @@
-# 6. Objects
+# 7. Objects
 
   - [Object Literals](#object-literals)
   - [Dot Notation](#dot-notation)

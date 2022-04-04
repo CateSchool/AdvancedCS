@@ -1,4 +1,4 @@
-# 3. Conditionals
+# 4. Conditionals
 
   - [if / else](#if--else)
   - [if / else if / else](#if--else-if--else)
