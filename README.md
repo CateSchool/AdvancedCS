@@ -46,8 +46,8 @@ Google Colab
 2. [Bar Charts](https://colab.research.google.com/drive/14l-Z1BP9geZn_dD7uc9Pd35ulof2B1M_?usp=sharing)
 3. [Line Plots](https://colab.research.google.com/drive/1NzQA3l-b9qyqNdey9psBdgwPPhIu6flZ?usp=sharing)
 4. [Linear Regression](https://colab.research.google.com/drive/1W5LMu_xFqLVBnwkRphU7-e9vpl5lMK2_?usp=sharing)
+5. [Distributions](https://colab.research.google.com/drive/1bBxeljWSk7NkCEvqpPP3yhMmzStuBTXv?usp=sharing)
 
-
-D3.js Data Visualization - TBA  
+D3.js Data Visualization - (See Repl) 
 
 **[FINAL Project](unit3/project/README.md)**
