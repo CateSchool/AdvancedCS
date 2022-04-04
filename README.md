@@ -2,7 +2,7 @@
 
 Useful notes:
 * [Writing Good Code](assets/codestyle.md)  
-* [Running code locally on your machine](assets/local.md)
+* [Running code locally on your machine](https://docs.google.com/document/d/1t4DEGKu5JpcNze1S_O2yPIxNuwOt_h42jRHbeq1PAQs/edit?usp=sharing)
 * [Git / GitHub](unit1/09-Git/README.md)
 ## Unit 1: JavaScript & p5.js Fundamentals
 1. [Getting Started](unit1/01-Getting%20Started/README.md)
