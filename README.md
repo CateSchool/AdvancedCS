@@ -5,14 +5,14 @@ Useful notes:
 * [Running code locally on your machine](https://docs.google.com/document/d/1t4DEGKu5JpcNze1S_O2yPIxNuwOt_h42jRHbeq1PAQs/edit?usp=sharing)
 * [Git / GitHub](unit1/09-Git/README.md)
 ## Unit 1: JavaScript & p5.js Fundamentals
-2. [Drawing & Variables](unit1/01-Variables/README.md)
-3. [Functions](unit1/02-Functions/README.md)
-4. [Conditionals](unit1/03-Conditionals/README.md)
-5. [Loops](unit1/04-Loops/README.md)
-6. [Arrays](unit1/05-Arrays/README.md)
-7. [Objects](unit1/06-Objects/README.md)
-8. [Object Oriented Programming](unit1/07-OOP/README.md)
-9. [HTML / CSS](unit1/08-HTML/README.md)
+1. [Drawing & Variables](unit1/01-Variables/README.md)
+2. [Functions](unit1/02-Functions/README.md)
+3. [Conditionals](unit1/03-Conditionals/README.md)
+4. [Loops](unit1/04-Loops/README.md)
+5. [Arrays](unit1/05-Arrays/README.md)
+6. [Objects](unit1/06-Objects/README.md)
+7. [Object Oriented Programming](unit1/07-OOP/README.md)
+8. [HTML / CSS](unit1/08-HTML/README.md)
 
 **[Project 1 Guidelines](unit1/project/README.md)**
 
