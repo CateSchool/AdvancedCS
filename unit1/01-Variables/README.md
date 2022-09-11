@@ -3,6 +3,7 @@
 **Variables** in computer science are named entities that serve as placeholders for stored values. Variables can store all sorts of things: numbers, words, and more!
 
 - [Drawing & Variables](#drawing--variables)
+  - [- Resources](#--resources)
   - [Drawing](#drawing)
     - [Replit](#replit)
     - [console.log()](#consolelog)
