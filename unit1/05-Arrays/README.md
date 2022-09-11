@@ -1,4 +1,4 @@
-# 6. Arrays
+# Arrays
 
   - [Initializing Arrays](#initializing-arrays)
     - [push()](#push)

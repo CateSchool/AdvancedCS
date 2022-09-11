@@ -1,6 +1,6 @@
-# 10. HTML & CSS
+# HTML & CSS
 
-- [10. HTML & CSS](#10-html--css)
+- [HTML & CSS](#html--css)
   - [Basic HTML Structure](#basic-html-structure)
     - [Tags](#tags)
       - [Text](#text)
