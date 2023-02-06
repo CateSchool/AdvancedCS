@@ -1,9 +1,12 @@
 # Sort Algorithms
 
+- [Sort Algorithms](#sort-algorithms)
   - [selection sort](#selection-sort)
   - [bubble sort](#bubble-sort)
   - [merge sort](#merge-sort)
-  - [Big O & Big-Ω](#big-o--big-ω)
+  - [Big O \& Big-Ω](#big-o--big-ω)
+    - [Key takeaways:](#key-takeaways)
+    - [Time Complexity Visualization:](#time-complexity-visualization)
   
 ---
 ## selection sort
@@ -50,7 +53,7 @@ If n > l
 |---|---|---|
 | Selection Sort  | O(n<sup>2</sup>)  | Ω(n<sup>2</sup>)  | 
 | Bubble Sort  | O(n<sup>2</sup>)  | Ω(n)  |  
-| Merge Sort  | O(n log n)  | Ω(n log n  |   
+| Merge Sort  | O(n log n)  | Ω(n log n)  |   
 
 ### Key takeaways:
 1. **Worst case selection sort and bubble sort are O(n<sup>2</sup>)**. 

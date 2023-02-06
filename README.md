@@ -34,7 +34,7 @@ Data Structures
 4. [Trees](unit2/data_structures/04-Trees/README.md)
 5. [Graphs](unit2/data_structures/05-Graphs/README.md)
 
-**[Unit 2 Presentations](unit2/data_structures/presentation.md)**  
+**[Unit 2 Presentations](https://docs.google.com/document/d/1gJYTPj3N8V9IEYHUtYKv1-JzLT4yE4hSuYCYKr6MDKQ/edit?usp=sharing)**  
 
 ## Unit 3: Data Science & Visualization
 
