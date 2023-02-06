@@ -29,11 +29,10 @@ Searching & Sorting Algorithms
 Data Structures 
 
 1. [Arrays](unit2/data_structures/01-Arrays/README.md)
-2. [HashMaps](unit2/data_structures/02-HashMap/README.md)
-3. [Linked Lists](unit2/data_structures/03-LinkedLists/README.md)
-4. [Trees](unit2/data_structures/04-Trees/README.md)
-5. [Graphs](unit2/data_structures/05-Graphs/README.md)
-
+2. [HashMaps](unit2/data_structures/02-HashMap/README.md)  
+  
+Other structures published after presentations  
+  
 **[Unit 2 Presentations](https://docs.google.com/document/d/1gJYTPj3N8V9IEYHUtYKv1-JzLT4yE4hSuYCYKr6MDKQ/edit?usp=sharing)**  
 
 ## Unit 3: Data Science & Visualization
