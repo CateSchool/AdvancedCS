@@ -1,5 +1,6 @@
 # Linked Lists
 
+- [Linked Lists](#linked-lists)
   - [Overview](#overview)
     - [Types](#types)
     - [Use Cases](#use-cases)
@@ -18,7 +19,8 @@ A linked list is a linear collection of elements or nodes. Nodes are not contigu
 ### Use Cases
 * Useful for applications that need to perform many inserts (prevents expensive operations of shifting array elements).
   * implementing stacks (first in, first out)
-  * implmenting queues (first in, last out)
+  * implementing queues (first in, last out)
+  * Previous and next page in a web browser
 
 ![stack](assets/stackqueue.png)
 
